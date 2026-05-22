@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="/brand/logo-white.svg">
     <source media="(prefers-color-scheme: light)" srcset="/brand/logo-cyan.svg">
-    <img alt="EasyDesk logo" src="/brand/logo-cyan.svg" width="128">
+    <img alt="EasyDesk logo" src="/brand/logo-cyan.svg" width="128" height="128">
   </picture>
   <h1>EasyDesk</h1>
   <div>
